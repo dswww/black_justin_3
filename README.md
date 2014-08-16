@@ -2,7 +2,7 @@ black_justin_3
 ==============
 
 <h2>Opencart free theme for core 1.5.6.x and 1.5.5.x</h2>
-
+<img src="http://www.dswww.pl/images/szablony/black_justin_3/black_justin_3_1.jpg" alt="Black Justin 3"/>
 <h3>Featured:</h3>
 <ul>
   <li>Responsive</li>
