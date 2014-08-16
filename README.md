@@ -17,6 +17,6 @@ black_justin_3
   <li>Font Awesome</li>
 </ul>
 
-Webpage <a href="http://www.dswww.pl">Tworzenie stron WWW</a>
-<strong>Demo: <a href="http://www.designstudiowww.pl/black_justin_3/index.php">Black Justin 3</a></strong>
+<strong>Webpage <a href="http://www.dswww.pl" targe="_blank">Tworzenie stron WWW</a></strong><br/>
+<strong>Demo: <a href="http://www.designstudiowww.pl/black_justin_3/index.php" targe="_blank">Black Justin 3</a></strong>
 
