@@ -17,6 +17,7 @@ black_justin_3
   <li>Font Awesome</li>
 </ul>
 <br/>
+<h3>INSTALLATION:</h3>
 1 - Extract the zip files<br/>
 2 - Send the folder with the template files to the server (/ catalog / view / theme /)<br/>
 3 - Login to the store admin panel (System / Settings)<br/>
